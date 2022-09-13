@@ -38,11 +38,11 @@ GIF created with [MNML Screen Recorder](https://play.google.com/store/apps/detai
 
 ## Notes
 
-I don't like repeating variable declarations everytime I make a new function. However, I couldn't put variables on MainActivity() besides the "wordToGuess" variable. So I had to repeaat a few variables.
+I don't like repeating variable declarations everytime I make a new function. However, I couldn't put variables on MainActivity() besides the "wordToGuess" variable. So I had to repeat a few variables. I would like to know more about why it didn't work to declare my variables outside my functions.
 
-Additionally, I had to record on my phone as my virtual emulator does not work properly.
+Additionally, I had to record on my phone as my virtual emulator does not work properly. It was a bit of a hassle to make it into a GIF, but I was finally able to get it going.
 
-Finally, I wasn't able to win on the GIF walkthrough, but there is a little toast celebration if you win.
+Finally, I wasn't able to win on the GIF walkthrough, but there is a little toast celebration if you win. It's a very hard wordle version in my opnion.
 
 ## License
 
