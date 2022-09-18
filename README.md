@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='bbbbb.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='app_demo.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with [MNML Screen Recorder](https://play.google.com/store/apps/details?id=easy.screenrecord)
 
