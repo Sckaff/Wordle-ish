@@ -22,8 +22,7 @@ class MainActivity : AppCompatActivity() {
         newGameButton.setOnClickListener { setNewGame() }
     }
 
-    //private var wordToGuess = getRandomFourLetterWord()
-    private var wordToGuess = "HOME"
+    private var wordToGuess = getRandomFourLetterWord()
 
     private fun setNewGame() {
         // Set Variables
@@ -68,8 +67,7 @@ class MainActivity : AppCompatActivity() {
         inputBox.visibility = View.VISIBLE
         guessButton.visibility = View.VISIBLE
         newGameButton.visibility = View.GONE
-        //wordToGuess = getRandomFourLetterWord()
-        wordToGuess = "RAIN"
+        wordToGuess = getRandomFourLetterWord()
     }
 
     private fun setEndGame(){
